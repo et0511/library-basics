@@ -1,7 +1,7 @@
 # figure & subplot
 
 """
-subplot() 함수 사용
+    subplot() 함수 사용
 """
 
 from matplotlib import pyplot as plt

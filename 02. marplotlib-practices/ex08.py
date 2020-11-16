@@ -1,10 +1,10 @@
 # figure & subplot
 
 """
-subplot() 함수 사용
-추가 옵션 사용해 보기
-sharex : 서브플롯이 x축 눈금을 함께 쓴다.
-sharey : 서브플롯이 y축 눈금을 함께 쓴다.
+    subplot() 함수 사용
+    추가 옵션 사용해 보기
+    sharex : 서브플롯이 x축 눈금을 함께 쓴다.
+    sharey : 서브플롯이 y축 눈금을 함께 쓴다.
 """
 
 from matplotlib import pyplot as plt

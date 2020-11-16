@@ -1,7 +1,7 @@
 # figure & subplot
 
 """
-Numpy를 이용한 다양한 그래프 그리기
+    Numpy를 이용한 다양한 그래프 그리기
 """
 
 from matplotlib import pyplot as plt
