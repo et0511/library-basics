@@ -24,7 +24,7 @@ arr2 = np.ones((4, 3))
 print(arr2)
 
 
-print('===== 1차원 모든 요소가 3인 size 5인 배열 =====')
+print('===== 1차원 모든 요소가 3인 5인 배열 =====')
 
 arr1 = np.full((5), 3)
 print(arr1)
@@ -33,4 +33,9 @@ print(arr1)
 print('===== 2차원 모든 요소가 1인 4 x 3인 배열 =====')
 
 arr2 = np.ones((4, 3))
+print(arr2)
+
+print('===== 2차원 모든 요소가 3인 4 x 3인 배열 =====')
+
+arr2 = np.full((4, 3), 3)
 print(arr2)
